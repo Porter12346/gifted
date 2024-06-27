@@ -9,3 +9,10 @@
 .profile-picture.profile-picture-sm {
   height: 64px;
 }
+
+.gift {
+  background-image: url('https://images.unsplash.com/photo-1607344645866-009c320b63e0?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+  background-position: center;
+  background-size: cover;
+  aspect-ratio: 1/1;
+}
